@@ -1,0 +1,22 @@
+Directorios Generados
+
+.gradle
+/local.properties
+/build
+.DS_Store
+.idea/
+.settings/
+.externalNativeBuild
+.cxx/
+/captures
+
+Archivos de compilación de Android
+
+*.apk
+*.aab
+*.aar
+*.iml
+
+Información sensible
+
+debug.keystore
